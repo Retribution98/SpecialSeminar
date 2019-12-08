@@ -1,0 +1,38 @@
+C:\Users\kiril\Documents\GitHub\AlgoNext\GoodsDelivery.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\kiril\Documents\GitHub\AlgoNext\GoodsDelivery.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\kiril\Documents\GitHub\AlgoNext\GoodsDelivery.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\kiril\Documents\GitHub\AlgoNext\GoodsDelivery.Tests\bin\Debug\netcoreapp2.1\GoodsDelivery.Tests.deps.json
+C:\Users\kiril\Documents\GitHub\AlgoNext\GoodsDelivery.Tests\bin\Debug\netcoreapp2.1\GoodsDelivery.Tests.runtimeconfig.json
+C:\Users\kiril\Documents\GitHub\AlgoNext\GoodsDelivery.Tests\bin\Debug\netcoreapp2.1\GoodsDelivery.Tests.runtimeconfig.dev.json
+C:\Users\kiril\Documents\GitHub\AlgoNext\GoodsDelivery.Tests\bin\Debug\netcoreapp2.1\GoodsDelivery.Tests.dll
+C:\Users\kiril\Documents\GitHub\AlgoNext\GoodsDelivery.Tests\bin\Debug\netcoreapp2.1\GoodsDelivery.Tests.pdb
+C:\Users\kiril\Documents\GitHub\AlgoNext\GoodsDelivery.Tests\bin\Debug\netcoreapp2.1\GoodsDelivery.dll
+C:\Users\kiril\Documents\GitHub\AlgoNext\GoodsDelivery.Tests\bin\Debug\netcoreapp2.1\GoodsDelivery.pdb
+C:\Users\kiril\Documents\GitHub\AlgoNext\GoodsDelivery.Tests\obj\Debug\netcoreapp2.1\GoodsDelivery.Tests.csprojAssemblyReference.cache
+C:\Users\kiril\Documents\GitHub\AlgoNext\GoodsDelivery.Tests\obj\Debug\netcoreapp2.1\GoodsDelivery.Tests.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Documents\GitHub\AlgoNext\GoodsDelivery.Tests\obj\Debug\netcoreapp2.1\GoodsDelivery.Tests.AssemblyInfoInputs.cache
+C:\Users\kiril\Documents\GitHub\AlgoNext\GoodsDelivery.Tests\obj\Debug\netcoreapp2.1\GoodsDelivery.Tests.AssemblyInfo.cs
+C:\Users\kiril\Documents\GitHub\AlgoNext\GoodsDelivery.Tests\obj\Debug\netcoreapp2.1\GoodsDelivery.Tests.csproj.CopyComplete
+C:\Users\kiril\Documents\GitHub\AlgoNext\GoodsDelivery.Tests\obj\Debug\netcoreapp2.1\GoodsDelivery.Tests.dll
+C:\Users\kiril\Documents\GitHub\AlgoNext\GoodsDelivery.Tests\obj\Debug\netcoreapp2.1\GoodsDelivery.Tests.pdb
+C:\Users\kiril\Documents\GitHub\AlgoNext\GoodsDelivery.Tests\bin\Debug\netcoreapp2.1\Utils.dll
+C:\Users\kiril\Documents\GitHub\AlgoNext\GoodsDelivery.Tests\bin\Debug\netcoreapp2.1\Utils.pdb
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\GoodsDelivery.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\GoodsDelivery.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\GoodsDelivery.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\GoodsDelivery.Tests\bin\Debug\netcoreapp2.1\GoodsDelivery.Tests.deps.json
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\GoodsDelivery.Tests\bin\Debug\netcoreapp2.1\GoodsDelivery.Tests.runtimeconfig.json
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\GoodsDelivery.Tests\bin\Debug\netcoreapp2.1\GoodsDelivery.Tests.runtimeconfig.dev.json
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\GoodsDelivery.Tests\bin\Debug\netcoreapp2.1\GoodsDelivery.Tests.dll
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\GoodsDelivery.Tests\bin\Debug\netcoreapp2.1\GoodsDelivery.Tests.pdb
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\GoodsDelivery.Tests\bin\Debug\netcoreapp2.1\GoodsDelivery.dll
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\GoodsDelivery.Tests\bin\Debug\netcoreapp2.1\Utils.dll
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\GoodsDelivery.Tests\bin\Debug\netcoreapp2.1\GoodsDelivery.pdb
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\GoodsDelivery.Tests\bin\Debug\netcoreapp2.1\Utils.pdb
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\GoodsDelivery.Tests\obj\Debug\netcoreapp2.1\GoodsDelivery.Tests.csprojAssemblyReference.cache
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\GoodsDelivery.Tests\obj\Debug\netcoreapp2.1\GoodsDelivery.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\GoodsDelivery.Tests\obj\Debug\netcoreapp2.1\GoodsDelivery.Tests.AssemblyInfoInputs.cache
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\GoodsDelivery.Tests\obj\Debug\netcoreapp2.1\GoodsDelivery.Tests.AssemblyInfo.cs
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\GoodsDelivery.Tests\obj\Debug\netcoreapp2.1\GoodsDelivery.Tests.csproj.CopyComplete
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\GoodsDelivery.Tests\obj\Debug\netcoreapp2.1\GoodsDelivery.Tests.dll
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\GoodsDelivery.Tests\obj\Debug\netcoreapp2.1\GoodsDelivery.Tests.pdb

@@ -1,0 +1,27 @@
+C:\Users\kiril\Documents\GitHub\AlgoNext\Utils\bin\Debug\netcoreapp2.1\Utils.deps.json
+C:\Users\kiril\Documents\GitHub\AlgoNext\Utils\bin\Debug\netcoreapp2.1\Utils.dll
+C:\Users\kiril\Documents\GitHub\AlgoNext\Utils\bin\Debug\netcoreapp2.1\Utils.pdb
+C:\Users\kiril\Documents\GitHub\AlgoNext\Utils\obj\Debug\netcoreapp2.1\Utils.csprojAssemblyReference.cache
+C:\Users\kiril\Documents\GitHub\AlgoNext\Utils\obj\Debug\netcoreapp2.1\Utils.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Documents\GitHub\AlgoNext\Utils\obj\Debug\netcoreapp2.1\Utils.AssemblyInfoInputs.cache
+C:\Users\kiril\Documents\GitHub\AlgoNext\Utils\obj\Debug\netcoreapp2.1\Utils.AssemblyInfo.cs
+C:\Users\kiril\Documents\GitHub\AlgoNext\Utils\obj\Debug\netcoreapp2.1\Utils.dll
+C:\Users\kiril\Documents\GitHub\AlgoNext\Utils\obj\Debug\netcoreapp2.1\Utils.pdb
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\Utils\bin\Debug\netcoreapp2.1\Utils.deps.json
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\Utils\bin\Debug\netcoreapp2.1\Utils.dll
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\Utils\bin\Debug\netcoreapp2.1\Utils.pdb
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\Utils\obj\Debug\netcoreapp2.1\Utils.csprojAssemblyReference.cache
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\Utils\obj\Debug\netcoreapp2.1\Utils.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\Utils\obj\Debug\netcoreapp2.1\Utils.AssemblyInfoInputs.cache
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\Utils\obj\Debug\netcoreapp2.1\Utils.AssemblyInfo.cs
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\Utils\obj\Debug\netcoreapp2.1\Utils.dll
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\Utils\obj\Debug\netcoreapp2.1\Utils.pdb
+E:\AlgoNext\Utils\bin\Debug\netcoreapp2.1\Utils.deps.json
+E:\AlgoNext\Utils\bin\Debug\netcoreapp2.1\Utils.dll
+E:\AlgoNext\Utils\bin\Debug\netcoreapp2.1\Utils.pdb
+E:\AlgoNext\Utils\obj\Debug\netcoreapp2.1\Utils.csprojAssemblyReference.cache
+E:\AlgoNext\Utils\obj\Debug\netcoreapp2.1\Utils.csproj.CoreCompileInputs.cache
+E:\AlgoNext\Utils\obj\Debug\netcoreapp2.1\Utils.AssemblyInfoInputs.cache
+E:\AlgoNext\Utils\obj\Debug\netcoreapp2.1\Utils.AssemblyInfo.cs
+E:\AlgoNext\Utils\obj\Debug\netcoreapp2.1\Utils.dll
+E:\AlgoNext\Utils\obj\Debug\netcoreapp2.1\Utils.pdb

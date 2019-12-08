@@ -1,0 +1,22 @@
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\OrderPortfolioFormation\bin\Debug\netcoreapp2.2\OrderPortfolioFormation.deps.json
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\OrderPortfolioFormation\bin\Debug\netcoreapp2.2\OrderPortfolioFormation.runtimeconfig.json
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\OrderPortfolioFormation\bin\Debug\netcoreapp2.2\OrderPortfolioFormation.runtimeconfig.dev.json
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\OrderPortfolioFormation\bin\Debug\netcoreapp2.2\OrderPortfolioFormation.dll
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\OrderPortfolioFormation\bin\Debug\netcoreapp2.2\OrderPortfolioFormation.pdb
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\OrderPortfolioFormation\obj\Debug\netcoreapp2.2\OrderPortfolioFormation.csprojAssemblyReference.cache
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\OrderPortfolioFormation\obj\Debug\netcoreapp2.2\OrderPortfolioFormation.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\OrderPortfolioFormation\obj\Debug\netcoreapp2.2\OrderPortfolioFormation.AssemblyInfoInputs.cache
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\OrderPortfolioFormation\obj\Debug\netcoreapp2.2\OrderPortfolioFormation.AssemblyInfo.cs
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\OrderPortfolioFormation\obj\Debug\netcoreapp2.2\OrderPortfolioFormation.dll
+C:\Users\Кирилл Суворов\Desktop\AlgoNext\OrderPortfolioFormation\obj\Debug\netcoreapp2.2\OrderPortfolioFormation.pdb
+E:\AlgoNext\OrderPortfolioFormation\bin\Debug\netcoreapp2.2\OrderPortfolioFormation.deps.json
+E:\AlgoNext\OrderPortfolioFormation\bin\Debug\netcoreapp2.2\OrderPortfolioFormation.runtimeconfig.json
+E:\AlgoNext\OrderPortfolioFormation\bin\Debug\netcoreapp2.2\OrderPortfolioFormation.runtimeconfig.dev.json
+E:\AlgoNext\OrderPortfolioFormation\bin\Debug\netcoreapp2.2\OrderPortfolioFormation.dll
+E:\AlgoNext\OrderPortfolioFormation\bin\Debug\netcoreapp2.2\OrderPortfolioFormation.pdb
+E:\AlgoNext\OrderPortfolioFormation\obj\Debug\netcoreapp2.2\OrderPortfolioFormation.csprojAssemblyReference.cache
+E:\AlgoNext\OrderPortfolioFormation\obj\Debug\netcoreapp2.2\OrderPortfolioFormation.csproj.CoreCompileInputs.cache
+E:\AlgoNext\OrderPortfolioFormation\obj\Debug\netcoreapp2.2\OrderPortfolioFormation.AssemblyInfoInputs.cache
+E:\AlgoNext\OrderPortfolioFormation\obj\Debug\netcoreapp2.2\OrderPortfolioFormation.AssemblyInfo.cs
+E:\AlgoNext\OrderPortfolioFormation\obj\Debug\netcoreapp2.2\OrderPortfolioFormation.dll
+E:\AlgoNext\OrderPortfolioFormation\obj\Debug\netcoreapp2.2\OrderPortfolioFormation.pdb

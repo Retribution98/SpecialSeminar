@@ -1,0 +1,7 @@
+E:\AlgoNext\Graphs\bin\Debug\netcoreapp2.1\Graphs.deps.json
+E:\AlgoNext\Graphs\bin\Debug\netcoreapp2.1\Graphs.runtimeconfig.json
+E:\AlgoNext\Graphs\bin\Debug\netcoreapp2.1\Graphs.runtimeconfig.dev.json
+E:\AlgoNext\Graphs\bin\Debug\netcoreapp2.1\Graphs.dll
+E:\AlgoNext\Graphs\obj\Debug\netcoreapp2.1\Graphs.csproj.CoreCompileInputs.cache
+E:\AlgoNext\Graphs\obj\Debug\netcoreapp2.1\Graphs.AssemblyInfoInputs.cache
+E:\AlgoNext\Graphs\obj\Debug\netcoreapp2.1\Graphs.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+C:\Users\kiril\Documents\GitHub\AlgoNext\AlgoNext\bin\Debug\netcoreapp2.1\AlgoNext.deps.json
+C:\Users\kiril\Documents\GitHub\AlgoNext\AlgoNext\bin\Debug\netcoreapp2.1\AlgoNext.runtimeconfig.json
+C:\Users\kiril\Documents\GitHub\AlgoNext\AlgoNext\bin\Debug\netcoreapp2.1\AlgoNext.runtimeconfig.dev.json
+C:\Users\kiril\Documents\GitHub\AlgoNext\AlgoNext\bin\Debug\netcoreapp2.1\AlgoNext.dll
+C:\Users\kiril\Documents\GitHub\AlgoNext\AlgoNext\bin\Debug\netcoreapp2.1\AlgoNext.pdb
+C:\Users\kiril\Documents\GitHub\AlgoNext\AlgoNext\obj\Debug\netcoreapp2.1\AlgoNext.csprojAssemblyReference.cache
+C:\Users\kiril\Documents\GitHub\AlgoNext\AlgoNext\obj\Debug\netcoreapp2.1\AlgoNext.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Documents\GitHub\AlgoNext\AlgoNext\obj\Debug\netcoreapp2.1\AlgoNext.AssemblyInfoInputs.cache
+C:\Users\kiril\Documents\GitHub\AlgoNext\AlgoNext\obj\Debug\netcoreapp2.1\AlgoNext.AssemblyInfo.cs
+C:\Users\kiril\Documents\GitHub\AlgoNext\AlgoNext\obj\Debug\netcoreapp2.1\AlgoNext.dll
+C:\Users\kiril\Documents\GitHub\AlgoNext\AlgoNext\obj\Debug\netcoreapp2.1\AlgoNext.pdb
