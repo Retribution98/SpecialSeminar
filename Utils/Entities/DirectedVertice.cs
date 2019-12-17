@@ -4,15 +4,16 @@ using System.Text;
 
 namespace Utils.Entities
 {
-    public class DirectedEdge: IEdge
+    public class DirectedEdge<TVertice>: IEdge<TVertice>
+        where TVertice: Vertice
     {
         public int Weight { get; }
 
-        public Vertice FromVertice { get; }
+        public TVertice FromVertice { get; }
 
-        public Vertice ToVertice { get; }
+        public TVertice ToVertice { get; }
 
-        public DirectedEdge(Vertice from, Vertice to, int weight)
+        public DirectedEdge(TVertice from, TVertice to, int weight)
         {
             this.FromVertice = from;
             this.ToVertice = to;

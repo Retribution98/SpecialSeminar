@@ -491,7 +491,7 @@
       ]
     },
     "Microsoft.NETCore.DotNetHostPolicy/2.2.0": {
-      "sha512": "5Xvh/3bDr6YAl6TKfeONvRDZ9QOmvVmzFzA0M6g8uubWdf5/o6qdVOqByFBT/fhjVb6okP0E5+v1oxh1Pk+c+w==",
+      "sha512": "usINorQD/B8jsNo9V1+MvAkzFj2QE1yNmAuh4vG5Wsd71EjBAVxFTDAb6mmJQI6wO4j11L1VJuOGMV/86JecWg==",
       "type": "package",
       "path": "microsoft.netcore.dotnethostpolicy/2.2.0",
       "files": [
@@ -519,7 +519,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/2.2.0": {
-      "sha512": "T/J+XZo+YheFTJh8/4uoeJDdz5qOmOMkjg6/VL8mHJ9AnP8+fmV/kcbxeXsob0irRNiChf+V0ig1MCRLp/+Kog==",
+      "sha512": "39+GVHdbm+cmoOjdvm+fhiMbddnuVyUlBdYS8Yhn5xsNaBoTXpgBsxQQlI2Sv9EjIP0F+itG6yrDaOM2OEGupQ==",
       "type": "package",
       "path": "microsoft.netcore.platforms/2.2.0",
       "files": [
@@ -552,11 +552,10 @@
       ]
     },
     "NETStandard.Library/2.0.3": {
-      "sha512": "st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "sha512": "548M6mnBSJWxsIlkQHfbzoYxpiYFXZZSL00p4GHYv8PkiqFBnnT68mW5mGEsA/ch9fDO9GkPgkFQpWiXZN7mAQ==",
       "type": "package",
       "path": "netstandard.library/2.0.3",
       "files": [
-        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -687,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Кирилл Суворов\\.nuget\\packages\\": {},
+    "C:\\Users\\kiril\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ННГУ\\Спец.Семинар 1\\AlgoNext\\OrderPortfolioFormation\\OrderPortfolioFormation.csproj",
+      "projectUniqueName": "C:\\Users\\kiril\\Documents\\GitHub\\SpecialSeminar\\OrderPortfolioFormation\\OrderPortfolioFormation.csproj",
       "projectName": "OrderPortfolioFormation",
-      "projectPath": "D:\\ННГУ\\Спец.Семинар 1\\AlgoNext\\OrderPortfolioFormation\\OrderPortfolioFormation.csproj",
-      "packagesPath": "C:\\Users\\Кирилл Суворов\\.nuget\\packages\\",
-      "outputPath": "D:\\ННГУ\\Спец.Семинар 1\\AlgoNext\\OrderPortfolioFormation\\obj\\",
+      "projectPath": "C:\\Users\\kiril\\Documents\\GitHub\\SpecialSeminar\\OrderPortfolioFormation\\OrderPortfolioFormation.csproj",
+      "packagesPath": "C:\\Users\\kiril\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kiril\\Documents\\GitHub\\SpecialSeminar\\OrderPortfolioFormation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "D:\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kiril\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

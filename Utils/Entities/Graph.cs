@@ -5,23 +5,25 @@ using System.Text;
 
 namespace Utils.Entities
 {
-    public abstract class Graph
+    public abstract class Graph<TVertice, TEdge>
+        where TVertice: Vertice
+        where TEdge : IEdge<TVertice>
     {
-        private readonly IList<Vertice> vertices;
+        private readonly IList<TVertice> vertices;
 
-        private readonly IList<IEdge> edges;
+        private readonly IList<TEdge> edges;
 
-        public IReadOnlyList<Vertice> Vertices => (IReadOnlyList<Vertice>)vertices;
+        public virtual IReadOnlyList<TVertice> Vertices => (IReadOnlyList<TVertice>)vertices;
 
-        public IReadOnlyList<IEdge> Edges => (IReadOnlyList<IEdge>)edges;
+        public virtual IReadOnlyList<TEdge> Edges => (IReadOnlyList<TEdge>)edges;
 
         public Graph()
         {
-            vertices = new List<Vertice>();
-            edges = new List<IEdge>();
+            vertices = new List<TVertice>();
+            edges = new List<TEdge>();
         }
 
-        public void AddVertice(Vertice vertice)
+        public virtual void AddVertice(TVertice vertice)
         {
             if (vertices.Contains(vertice))
             {
@@ -31,7 +33,15 @@ namespace Utils.Entities
             vertices.Add(vertice);
         }
 
-        public void AddEdge(IEdge edge)
+        public virtual void AddVertices(IEnumerable<TVertice> vertices)
+        {
+            foreach(var vertice in vertices)
+            {
+                AddVertice(vertice);
+            }
+        }
+
+        public virtual void AddEdge(TEdge edge)
         {
             if (edges.Any(x => x.FromVertice == edge.FromVertice 
                             && x.ToVertice == edge.ToVertice))
@@ -50,6 +60,14 @@ namespace Utils.Entities
             }
 
             edges.Add(edge);
+        }
+
+        public virtual void AddEdges(IEnumerable<TEdge> edges)
+        {
+            foreach(var edge in edges)
+            {
+                AddEdge(edge);
+            }
         }
     }
 }

@@ -26,3 +26,17 @@ C:\Users\Кирилл Суворов\Desktop\AlgoNext\GoodsDelivery\obj\Debug\ne
 C:\Users\Кирилл Суворов\Desktop\AlgoNext\GoodsDelivery\obj\Debug\netcoreapp2.1\GoodsDelivery.csproj.CopyComplete
 C:\Users\Кирилл Суворов\Desktop\AlgoNext\GoodsDelivery\obj\Debug\netcoreapp2.1\GoodsDelivery.dll
 C:\Users\Кирилл Суворов\Desktop\AlgoNext\GoodsDelivery\obj\Debug\netcoreapp2.1\GoodsDelivery.pdb
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\GoodsDelivery\bin\Debug\netcoreapp2.1\GoodsDelivery.deps.json
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\GoodsDelivery\bin\Debug\netcoreapp2.1\GoodsDelivery.runtimeconfig.json
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\GoodsDelivery\bin\Debug\netcoreapp2.1\GoodsDelivery.runtimeconfig.dev.json
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\GoodsDelivery\bin\Debug\netcoreapp2.1\GoodsDelivery.dll
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\GoodsDelivery\bin\Debug\netcoreapp2.1\GoodsDelivery.pdb
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\GoodsDelivery\bin\Debug\netcoreapp2.1\Utils.dll
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\GoodsDelivery\bin\Debug\netcoreapp2.1\Utils.pdb
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\GoodsDelivery\obj\Debug\netcoreapp2.1\GoodsDelivery.csprojAssemblyReference.cache
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\GoodsDelivery\obj\Debug\netcoreapp2.1\GoodsDelivery.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\GoodsDelivery\obj\Debug\netcoreapp2.1\GoodsDelivery.AssemblyInfoInputs.cache
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\GoodsDelivery\obj\Debug\netcoreapp2.1\GoodsDelivery.AssemblyInfo.cs
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\GoodsDelivery\obj\Debug\netcoreapp2.1\GoodsDelivery.csproj.CopyComplete
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\GoodsDelivery\obj\Debug\netcoreapp2.1\GoodsDelivery.dll
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\GoodsDelivery\obj\Debug\netcoreapp2.1\GoodsDelivery.pdb

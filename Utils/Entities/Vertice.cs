@@ -1,8 +1,8 @@
 ﻿namespace Utils.Entities
 {
-    public abstract class Vertice
+    public class Vertice
     {
-        public int Id { get; }
+        public int Id { get; set; }
 
         public override bool Equals(object obj)
         {

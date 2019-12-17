@@ -20,3 +20,14 @@ E:\AlgoNext\OrderPortfolioFormation\obj\Debug\netcoreapp2.2\OrderPortfolioFormat
 E:\AlgoNext\OrderPortfolioFormation\obj\Debug\netcoreapp2.2\OrderPortfolioFormation.AssemblyInfo.cs
 E:\AlgoNext\OrderPortfolioFormation\obj\Debug\netcoreapp2.2\OrderPortfolioFormation.dll
 E:\AlgoNext\OrderPortfolioFormation\obj\Debug\netcoreapp2.2\OrderPortfolioFormation.pdb
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\OrderPortfolioFormation\bin\Debug\netcoreapp2.2\OrderPortfolioFormation.deps.json
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\OrderPortfolioFormation\bin\Debug\netcoreapp2.2\OrderPortfolioFormation.runtimeconfig.json
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\OrderPortfolioFormation\bin\Debug\netcoreapp2.2\OrderPortfolioFormation.runtimeconfig.dev.json
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\OrderPortfolioFormation\bin\Debug\netcoreapp2.2\OrderPortfolioFormation.dll
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\OrderPortfolioFormation\bin\Debug\netcoreapp2.2\OrderPortfolioFormation.pdb
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\OrderPortfolioFormation\obj\Debug\netcoreapp2.2\OrderPortfolioFormation.csprojAssemblyReference.cache
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\OrderPortfolioFormation\obj\Debug\netcoreapp2.2\OrderPortfolioFormation.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\OrderPortfolioFormation\obj\Debug\netcoreapp2.2\OrderPortfolioFormation.AssemblyInfoInputs.cache
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\OrderPortfolioFormation\obj\Debug\netcoreapp2.2\OrderPortfolioFormation.AssemblyInfo.cs
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\OrderPortfolioFormation\obj\Debug\netcoreapp2.2\OrderPortfolioFormation.dll
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\OrderPortfolioFormation\obj\Debug\netcoreapp2.2\OrderPortfolioFormation.pdb

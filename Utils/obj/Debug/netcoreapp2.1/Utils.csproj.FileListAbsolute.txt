@@ -25,3 +25,12 @@ E:\AlgoNext\Utils\obj\Debug\netcoreapp2.1\Utils.AssemblyInfoInputs.cache
 E:\AlgoNext\Utils\obj\Debug\netcoreapp2.1\Utils.AssemblyInfo.cs
 E:\AlgoNext\Utils\obj\Debug\netcoreapp2.1\Utils.dll
 E:\AlgoNext\Utils\obj\Debug\netcoreapp2.1\Utils.pdb
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\Utils\bin\Debug\netcoreapp2.1\Utils.deps.json
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\Utils\bin\Debug\netcoreapp2.1\Utils.dll
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\Utils\bin\Debug\netcoreapp2.1\Utils.pdb
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\Utils\obj\Debug\netcoreapp2.1\Utils.csprojAssemblyReference.cache
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\Utils\obj\Debug\netcoreapp2.1\Utils.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\Utils\obj\Debug\netcoreapp2.1\Utils.AssemblyInfoInputs.cache
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\Utils\obj\Debug\netcoreapp2.1\Utils.AssemblyInfo.cs
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\Utils\obj\Debug\netcoreapp2.1\Utils.dll
+C:\Users\kiril\Documents\GitHub\SpecialSeminar\Utils\obj\Debug\netcoreapp2.1\Utils.pdb

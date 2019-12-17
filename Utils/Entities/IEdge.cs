@@ -1,9 +1,10 @@
 ﻿namespace Utils.Entities
 {
-    public interface IEdge
+    public interface IEdge<TVertice>
+        where TVertice: Vertice
     {
-        Vertice FromVertice { get; }
+        TVertice FromVertice { get; }
 
-        Vertice ToVertice { get; }
+        TVertice ToVertice { get; }
     }
 }
