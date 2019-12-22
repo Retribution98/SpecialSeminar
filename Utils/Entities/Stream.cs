@@ -30,5 +30,12 @@ namespace Utils.Entities
                 .Concat(new Vertice[] { edges.Last().ToVertice })
                 .ToList();
         }
+
+        public override string ToString()
+        {
+            var str = new StringBuilder($"Size: {Size}   ");
+            str.AppendJoin(" -> ", Vertices.Select(x => x.Id));
+            return str.ToString();
+        }
     }
 }

@@ -15,7 +15,10 @@ namespace StreamSuppliers
             graph.AddEdge(new DirectedEdge<Vertice>(root, root, 5));
         }
 
-        public static WeightedDirectedGraph GetStreamGraph(InputDto input)
+        public static WeightedDirectedGraph GetStreamGraph(
+            InputDto input,
+            int? sizeStorage = null,
+            IEnumerable<int> uesdStoreageCustomerId = null)
         {
             var streamGraph = new WeightedDirectedGraph();
 
@@ -65,6 +68,21 @@ namespace StreamSuppliers
                         streamGraph.AddEdge(new DirectedEdge<Vertice>(supplierInTick[supplierId][tick], customerInTick[i][tick], maxStream));
                     }
                 }
+            }
+
+            if (sizeStorage != null)
+            {
+                var storageEdges = new List<DirectedEdge<Vertice>>();
+                foreach (var customerId in customerInTick
+                                            .Where(x => uesdStoreageCustomerId == null 
+                                                || uesdStoreageCustomerId.Contains(x.Key)))
+                {
+                    for(var t = 0; t < customerId.Value.Length - 1; t++)
+                    {
+                        storageEdges.Add(new DirectedEdge<Vertice>(customerId.Value[t], customerId.Value[t + 1], sizeStorage.Value));
+                    }
+                }
+                streamGraph.AddEdges(storageEdges);
             }
 
             var endVertice = new Vertice { Id = nextIdVertice++ };
