@@ -34,3 +34,11 @@ C:\Users\kiril\Documents\GitHub\SpecialSeminar\Utils\obj\Debug\netcoreapp2.1\Uti
 C:\Users\kiril\Documents\GitHub\SpecialSeminar\Utils\obj\Debug\netcoreapp2.1\Utils.AssemblyInfo.cs
 C:\Users\kiril\Documents\GitHub\SpecialSeminar\Utils\obj\Debug\netcoreapp2.1\Utils.dll
 C:\Users\kiril\Documents\GitHub\SpecialSeminar\Utils\obj\Debug\netcoreapp2.1\Utils.pdb
+C:\Users\user\Documents\GIT\SpecialSeminar\Utils\bin\Debug\netcoreapp2.1\Utils.deps.json
+C:\Users\user\Documents\GIT\SpecialSeminar\Utils\bin\Debug\netcoreapp2.1\Utils.dll
+C:\Users\user\Documents\GIT\SpecialSeminar\Utils\bin\Debug\netcoreapp2.1\Utils.pdb
+C:\Users\user\Documents\GIT\SpecialSeminar\Utils\obj\Debug\netcoreapp2.1\Utils.csprojAssemblyReference.cache
+C:\Users\user\Documents\GIT\SpecialSeminar\Utils\obj\Debug\netcoreapp2.1\Utils.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GIT\SpecialSeminar\Utils\obj\Debug\netcoreapp2.1\Utils.AssemblyInfo.cs
+C:\Users\user\Documents\GIT\SpecialSeminar\Utils\obj\Debug\netcoreapp2.1\Utils.dll
+C:\Users\user\Documents\GIT\SpecialSeminar\Utils\obj\Debug\netcoreapp2.1\Utils.pdb

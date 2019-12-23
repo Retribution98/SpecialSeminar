@@ -7,11 +7,19 @@ using Utils.Entities;
 using StreamSuppliers;
 using Xunit;
 using System.Diagnostics;
+using Xunit.Abstractions;
 
 namespace StreamSuppliers.Tests
 {
     public class UnitTest1
     {
+        private readonly ITestOutputHelper output;
+
+        public UnitTest1(ITestOutputHelper output)
+        {
+            this.output = output;
+        }
+
         [Fact]
         public void Task3()
         {
@@ -115,7 +123,7 @@ namespace StreamSuppliers.Tests
             string zipPath = @"..\..\..\Task4.zip";
             using (var archive = ZipFile.OpenRead(zipPath))
             {
-                foreach (var entry in archive.Entries.Take(7))
+                foreach (var entry in archive.Entries.Skip(10))
                 {
                     if (!entry.FullName.EndsWith(".txt", StringComparison.OrdinalIgnoreCase))
                     {
@@ -125,7 +133,7 @@ namespace StreamSuppliers.Tests
                     {
                         var inputDto = GetInputDto(reader);
 
-                        var streamGraph = Program.GetStreamGraph(inputDto, int.MaxValue);
+                        var streamGraph = Program.GetStreamGraph(inputDto, inputDto.MaxSendBySupplier.Sum());
 
                         var streams = streamGraph.GetMaxStream();
 

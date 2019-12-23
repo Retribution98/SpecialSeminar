@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2041
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OneDimensionalCutting", "OneDimensionalCutting\OneDimensionalCutting.csproj", "{12FF2450-96A4-4566-9748-776C34280488}"
 EndProject
@@ -23,15 +23,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderPortfolioFormation.Tes
 		{A808C3FF-D8B7-48BB-BC25-A851395A6536} = {A808C3FF-D8B7-48BB-BC25-A851395A6536}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamSuppliers", "StreamSuppliers\StreamSuppliers.csproj", "{75D480F4-D936-4D57-8660-CEC39D6B657F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StreamSuppliers", "StreamSuppliers\StreamSuppliers.csproj", "{75D480F4-D936-4D57-8660-CEC39D6B657F}"
 	ProjectSection(ProjectDependencies) = postProject
 		{6176E98F-25FA-443F-BD81-67C4B7B58547} = {6176E98F-25FA-443F-BD81-67C4B7B58547}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamSuppliers.Tests", "StreamSuppliers.Tests\StreamSuppliers.Tests.csproj", "{7F144CD0-4AA2-4031-ACA6-62857CB5CCCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StreamSuppliers.Tests", "StreamSuppliers.Tests\StreamSuppliers.Tests.csproj", "{7F144CD0-4AA2-4031-ACA6-62857CB5CCCB}"
 	ProjectSection(ProjectDependencies) = postProject
 		{75D480F4-D936-4D57-8660-CEC39D6B657F} = {75D480F4-D936-4D57-8660-CEC39D6B657F}
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelingSalesman", "TravelingSalesman\TravelingSalesman.csproj", "{82203BEF-E7B5-4922-AEE0-69DAA06D74AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{7F144CD0-4AA2-4031-ACA6-62857CB5CCCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F144CD0-4AA2-4031-ACA6-62857CB5CCCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F144CD0-4AA2-4031-ACA6-62857CB5CCCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82203BEF-E7B5-4922-AEE0-69DAA06D74AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82203BEF-E7B5-4922-AEE0-69DAA06D74AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82203BEF-E7B5-4922-AEE0-69DAA06D74AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82203BEF-E7B5-4922-AEE0-69DAA06D74AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

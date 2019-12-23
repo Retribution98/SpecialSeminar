@@ -12,3 +12,16 @@ C:\Users\kiril\Documents\GitHub\SpecialSeminar\StreamSuppliers\obj\Debug\netcore
 C:\Users\kiril\Documents\GitHub\SpecialSeminar\StreamSuppliers\obj\Debug\netcoreapp2.1\StreamSuppliers.csproj.CopyComplete
 C:\Users\kiril\Documents\GitHub\SpecialSeminar\StreamSuppliers\obj\Debug\netcoreapp2.1\StreamSuppliers.dll
 C:\Users\kiril\Documents\GitHub\SpecialSeminar\StreamSuppliers\obj\Debug\netcoreapp2.1\StreamSuppliers.pdb
+C:\Users\user\Documents\GIT\SpecialSeminar\StreamSuppliers\bin\Debug\netcoreapp2.1\StreamSuppliers.deps.json
+C:\Users\user\Documents\GIT\SpecialSeminar\StreamSuppliers\bin\Debug\netcoreapp2.1\StreamSuppliers.runtimeconfig.json
+C:\Users\user\Documents\GIT\SpecialSeminar\StreamSuppliers\bin\Debug\netcoreapp2.1\StreamSuppliers.runtimeconfig.dev.json
+C:\Users\user\Documents\GIT\SpecialSeminar\StreamSuppliers\bin\Debug\netcoreapp2.1\StreamSuppliers.dll
+C:\Users\user\Documents\GIT\SpecialSeminar\StreamSuppliers\bin\Debug\netcoreapp2.1\StreamSuppliers.pdb
+C:\Users\user\Documents\GIT\SpecialSeminar\StreamSuppliers\bin\Debug\netcoreapp2.1\Utils.dll
+C:\Users\user\Documents\GIT\SpecialSeminar\StreamSuppliers\bin\Debug\netcoreapp2.1\Utils.pdb
+C:\Users\user\Documents\GIT\SpecialSeminar\StreamSuppliers\obj\Debug\netcoreapp2.1\StreamSuppliers.csprojAssemblyReference.cache
+C:\Users\user\Documents\GIT\SpecialSeminar\StreamSuppliers\obj\Debug\netcoreapp2.1\StreamSuppliers.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GIT\SpecialSeminar\StreamSuppliers\obj\Debug\netcoreapp2.1\StreamSuppliers.AssemblyInfo.cs
+C:\Users\user\Documents\GIT\SpecialSeminar\StreamSuppliers\obj\Debug\netcoreapp2.1\StreamSuppliers.csproj.CopyComplete
+C:\Users\user\Documents\GIT\SpecialSeminar\StreamSuppliers\obj\Debug\netcoreapp2.1\StreamSuppliers.dll
+C:\Users\user\Documents\GIT\SpecialSeminar\StreamSuppliers\obj\Debug\netcoreapp2.1\StreamSuppliers.pdb

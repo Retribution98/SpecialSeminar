@@ -24,9 +24,14 @@ namespace Utils.Entities
             {
                 // нвходим доступные потоки
                 // шаг 1
+                if (streams.Count % 1000 == 0)
+                {
+                    Debug.WriteLine($"{streams.Count}: {streams.Sum(x => x.Size)}");
+                }
                 var selectedVertice = markedGraph.Vertices.First(x => x.Id == 0);
                 selectedVertice.SetMarker(int.MaxValue, null);
                 var edgesInStream = new List<DirectedEdge<Vertice>>();
+                var selectedEdges = new List<MarkedDirectedEdge>();
                 while (selectedVertice.Id != stockId)
                 {
                     // ищем следующие вершины для потока
@@ -37,25 +42,28 @@ namespace Utils.Entities
                     {
                         // швг 3
                         var selectEdge = activeEdges
-                            .OrderByDescending(x => x.GetWeightForVertice(selectedVertice))
+                            .OrderByDescending(x => x.ToVertice.Id == stockId)
+                            .ThenByDescending(x => x.GetWeightForVertice(selectedVertice))
                             .First();
                         var newSelectedVertice = selectEdge.FromVertice == selectedVertice
                            ? selectEdge.ToVertice
                            : selectEdge.FromVertice;
-                        newSelectedVertice.SetMarker(selectEdge.GetWeightForVertice(selectedVertice), selectedVertice.Id);
+                        newSelectedVertice.SetMarker(selectEdge.GetWeightForVertice(selectedVertice), selectedVertice);
+                        selectedEdges.Add(selectEdge);
                         edgesInStream.Add(new DirectedEdge<Vertice>(selectedVertice, newSelectedVertice, selectEdge.GetWeightForVertice(selectedVertice)));
                         selectedVertice = newSelectedVertice;
                     }
                     else
                     {
                         // шаг 4
-                        if (selectedVertice.FromId == null)
+                        if (selectedVertice.FromVertice == null)
                         { 
                             // шаг 6 
                             isNotEnd = false;
                             break;
                         }
-                        selectedVertice = markedGraph.Vertices.First(x => x.Id == selectedVertice.FromId);
+                        selectedVertice = selectedVertice.FromVertice;
+                        selectedEdges.RemoveAt(selectedEdges.Count - 1);
                         edgesInStream.Remove(edgesInStream.Last());
                     }
                 }
@@ -66,35 +74,19 @@ namespace Utils.Entities
                     streams.Add(stream);
                     // изменим пропускную способность у ребер
                     var vert = markedGraph.Vertices.First(x => x.IsSelected && x.Id == stockId );
-                    while (vert.FromId != null)
+                    foreach (var edge in selectedEdges)
                     {
-                        var fromVertice = markedGraph.Vertices.First(x => x.Id == vert.FromId);
-                        var activeEdges = markedGraph.GetActiveEdgesByVertice(fromVertice);
-                        var edge = markedGraph.Edges
-                            .Where(x => (x.FromVertice.Id == fromVertice.Id
-                                            && x.ToVertice.Id == vert.Id
-                                            && x.Source == vert.Count)
-                                         || (x.FromVertice.Id == vert.Id
-                                            && x.ToVertice.Id == fromVertice.Id
-                                            && x.Reverse == vert.Count))
-                            .First();
-                        if (edge.FromVertice == fromVertice)
+                        if (edge.FromVertice == edge.ToVertice.FromVertice)
                         {
                             edge.UseSource(stream.Size);
                         }
-                        else if (edge.ToVertice == fromVertice)
+                        else
                         {
                             edge.UseReverse(stream.Size);
                         }
-                        else
-                        {
-                            throw new InvalidProgramException("edge not contains fromVetice");
-                        }
-
-                        vert = fromVertice;
                     }
                 }
-                
+
                 markedGraph.ClearVerticeMarkers();
             }
             return streams;
@@ -117,18 +109,18 @@ namespace Utils.Entities
                 }
             }
         }
-        private class MarkedVertice: Vertice
+        public class MarkedVertice: Vertice
         {
             public int Count { get; private set; }
 
-            public int? FromId { get; private set; }
+            public MarkedVertice FromVertice { get; private set; }
 
             public bool IsSelected { get; private set; }
 
-            public void SetMarker(int count, int? fromId)
+            public void SetMarker(int count, MarkedVertice fromId)
             {
                 Count = count;
-                FromId = fromId;
+                FromVertice = fromId;
                 IsSelected = true;
             }
 
@@ -136,10 +128,10 @@ namespace Utils.Entities
             {
                 IsSelected = false;
                 Count = int.MaxValue;
-                FromId = default(int?);
+                FromVertice = null;
             }           
         }
-        private class MarkedDirectedEdge: DirectedEdge<MarkedVertice>
+        public class MarkedDirectedEdge: DirectedEdge<MarkedVertice>
         {
             public int Source { get; private set; }
 
