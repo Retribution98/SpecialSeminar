@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29409.12
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OneDimensionalCutting", "OneDimensionalCutting\OneDimensionalCutting.csproj", "{12FF2450-96A4-4566-9748-776C34280488}"
 EndProject
@@ -33,7 +33,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StreamSuppliers.Tests", "St
 		{75D480F4-D936-4D57-8660-CEC39D6B657F} = {75D480F4-D936-4D57-8660-CEC39D6B657F}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelingSalesman", "TravelingSalesman\TravelingSalesman.csproj", "{82203BEF-E7B5-4922-AEE0-69DAA06D74AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TravelingSalesman", "TravelingSalesman\TravelingSalesman.csproj", "{82203BEF-E7B5-4922-AEE0-69DAA06D74AA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6176E98F-25FA-443F-BD81-67C4B7B58547} = {6176E98F-25FA-443F-BD81-67C4B7B58547}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelingSalesman.Tests", "TravelingSalesman.Tests\TravelingSalesman.Tests.csproj", "{E7CFFB6E-B6E2-4B7A-9352-916C1FA906B5}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6176E98F-25FA-443F-BD81-67C4B7B58547} = {6176E98F-25FA-443F-BD81-67C4B7B58547}
+		{82203BEF-E7B5-4922-AEE0-69DAA06D74AA} = {82203BEF-E7B5-4922-AEE0-69DAA06D74AA}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +90,10 @@ Global
 		{82203BEF-E7B5-4922-AEE0-69DAA06D74AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82203BEF-E7B5-4922-AEE0-69DAA06D74AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82203BEF-E7B5-4922-AEE0-69DAA06D74AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7CFFB6E-B6E2-4B7A-9352-916C1FA906B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7CFFB6E-B6E2-4B7A-9352-916C1FA906B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7CFFB6E-B6E2-4B7A-9352-916C1FA906B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7CFFB6E-B6E2-4B7A-9352-916C1FA906B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -90,6 +103,7 @@ Global
 		{A513DDF9-A6C5-441D-A43F-DC733A6E98FA} = {8EB10A9B-F408-4F49-A04E-09AF9FF88044}
 		{8A60CCBE-C7EA-40E4-8A56-AA4DEB2BCBB6} = {8EB10A9B-F408-4F49-A04E-09AF9FF88044}
 		{7F144CD0-4AA2-4031-ACA6-62857CB5CCCB} = {8EB10A9B-F408-4F49-A04E-09AF9FF88044}
+		{E7CFFB6E-B6E2-4B7A-9352-916C1FA906B5} = {8EB10A9B-F408-4F49-A04E-09AF9FF88044}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {60C08F0D-509A-4548-AFA2-F35A62E0AB81}

@@ -26,3 +26,17 @@ C:\Users\kiril\Documents\GitHub\SpecialSeminar\OneDimensionalCutting\obj\Debug\n
 C:\Users\kiril\Documents\GitHub\SpecialSeminar\OneDimensionalCutting\obj\Debug\netcoreapp2.1\OneDimensionalCutting.csproj.CopyComplete
 C:\Users\kiril\Documents\GitHub\SpecialSeminar\OneDimensionalCutting\obj\Debug\netcoreapp2.1\OneDimensionalCutting.dll
 C:\Users\kiril\Documents\GitHub\SpecialSeminar\OneDimensionalCutting\obj\Debug\netcoreapp2.1\OneDimensionalCutting.pdb
+C:\Users\kiril\Documents\GitHub\SpecialSeminar1\OneDimensionalCutting\bin\Debug\netcoreapp2.1\OneDimensionalCutting.deps.json
+C:\Users\kiril\Documents\GitHub\SpecialSeminar1\OneDimensionalCutting\bin\Debug\netcoreapp2.1\OneDimensionalCutting.runtimeconfig.json
+C:\Users\kiril\Documents\GitHub\SpecialSeminar1\OneDimensionalCutting\bin\Debug\netcoreapp2.1\OneDimensionalCutting.runtimeconfig.dev.json
+C:\Users\kiril\Documents\GitHub\SpecialSeminar1\OneDimensionalCutting\bin\Debug\netcoreapp2.1\OneDimensionalCutting.dll
+C:\Users\kiril\Documents\GitHub\SpecialSeminar1\OneDimensionalCutting\bin\Debug\netcoreapp2.1\OneDimensionalCutting.pdb
+C:\Users\kiril\Documents\GitHub\SpecialSeminar1\OneDimensionalCutting\bin\Debug\netcoreapp2.1\Utils.dll
+C:\Users\kiril\Documents\GitHub\SpecialSeminar1\OneDimensionalCutting\bin\Debug\netcoreapp2.1\Utils.pdb
+C:\Users\kiril\Documents\GitHub\SpecialSeminar1\OneDimensionalCutting\obj\Debug\netcoreapp2.1\OneDimensionalCutting.csprojAssemblyReference.cache
+C:\Users\kiril\Documents\GitHub\SpecialSeminar1\OneDimensionalCutting\obj\Debug\netcoreapp2.1\OneDimensionalCutting.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Documents\GitHub\SpecialSeminar1\OneDimensionalCutting\obj\Debug\netcoreapp2.1\OneDimensionalCutting.AssemblyInfoInputs.cache
+C:\Users\kiril\Documents\GitHub\SpecialSeminar1\OneDimensionalCutting\obj\Debug\netcoreapp2.1\OneDimensionalCutting.AssemblyInfo.cs
+C:\Users\kiril\Documents\GitHub\SpecialSeminar1\OneDimensionalCutting\obj\Debug\netcoreapp2.1\OneDimensionalCutting.csproj.CopyComplete
+C:\Users\kiril\Documents\GitHub\SpecialSeminar1\OneDimensionalCutting\obj\Debug\netcoreapp2.1\OneDimensionalCutting.dll
+C:\Users\kiril\Documents\GitHub\SpecialSeminar1\OneDimensionalCutting\obj\Debug\netcoreapp2.1\OneDimensionalCutting.pdb

@@ -1,0 +1,11 @@
+C:\Users\kiril\Documents\GitHub\SpecialSeminar1\TravelingSalesman\bin\Debug\netcoreapp2.1\TravelingSalesman.deps.json
+C:\Users\kiril\Documents\GitHub\SpecialSeminar1\TravelingSalesman\bin\Debug\netcoreapp2.1\TravelingSalesman.runtimeconfig.json
+C:\Users\kiril\Documents\GitHub\SpecialSeminar1\TravelingSalesman\bin\Debug\netcoreapp2.1\TravelingSalesman.runtimeconfig.dev.json
+C:\Users\kiril\Documents\GitHub\SpecialSeminar1\TravelingSalesman\bin\Debug\netcoreapp2.1\TravelingSalesman.dll
+C:\Users\kiril\Documents\GitHub\SpecialSeminar1\TravelingSalesman\bin\Debug\netcoreapp2.1\TravelingSalesman.pdb
+C:\Users\kiril\Documents\GitHub\SpecialSeminar1\TravelingSalesman\obj\Debug\netcoreapp2.1\TravelingSalesman.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Documents\GitHub\SpecialSeminar1\TravelingSalesman\obj\Debug\netcoreapp2.1\TravelingSalesman.AssemblyInfoInputs.cache
+C:\Users\kiril\Documents\GitHub\SpecialSeminar1\TravelingSalesman\obj\Debug\netcoreapp2.1\TravelingSalesman.AssemblyInfo.cs
+C:\Users\kiril\Documents\GitHub\SpecialSeminar1\TravelingSalesman\obj\Debug\netcoreapp2.1\TravelingSalesman.dll
+C:\Users\kiril\Documents\GitHub\SpecialSeminar1\TravelingSalesman\obj\Debug\netcoreapp2.1\TravelingSalesman.pdb
+C:\Users\kiril\Documents\GitHub\SpecialSeminar1\TravelingSalesman\obj\Debug\netcoreapp2.1\TravelingSalesman.csprojAssemblyReference.cache
